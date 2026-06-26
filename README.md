@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HannaCarla
 - 👀 I’m interested in artifical neural networks, convolutional neural networks and deep learning
-- 📫 How to reach me: hannacarla47@gmail.com or hannacarla@neuro.ufrn.br
+- 📫 How to reach me: hannacarla47@gmail.com 
 
 <!---
 HannaCarla/HannaCarla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
